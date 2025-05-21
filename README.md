@@ -2,7 +2,7 @@
 
 Google Analytics extension for the Web and Capacitor apps
 
-# Usage
+## Usage
 
 ```typescript
 
@@ -15,10 +15,10 @@ Google Analytics extension for the Web and Capacitor apps
 
 ```
 
-# Author
+## Author
 
 @arpad1337
 
-# License
+## License
 
 MIT
